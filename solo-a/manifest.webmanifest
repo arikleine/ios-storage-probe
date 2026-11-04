@@ -1,0 +1,9 @@
+{
+ "name": "Probe A",
+ "short_name": "Probe A",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#ffffff"
+}

@@ -1,0 +1,9 @@
+{
+ "name": "Probe Combo",
+ "short_name": "Probe Combo",
+ "start_url": "a/",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#ffffff"
+}
